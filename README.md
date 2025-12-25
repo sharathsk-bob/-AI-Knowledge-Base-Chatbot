@@ -42,7 +42,7 @@ AI-Knowledge-Base-Chatbot/
 │── README.md
 
 🔧 Installation
-git clone https://github.com/yourusername/AI-Knowledge-Base-Chatbot.git
+git clone 
 cd AI-Knowledge-Base-Chatbot
 pip install -r requirements.txt
 
